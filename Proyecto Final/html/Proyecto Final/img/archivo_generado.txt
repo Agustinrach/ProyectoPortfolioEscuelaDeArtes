@@ -1,1 +1,0 @@
-¡Hola! Este es un archivo de texto generado desde JavaScript.
